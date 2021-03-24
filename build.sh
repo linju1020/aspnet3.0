@@ -1,2 +1,2 @@
-docker image rm ljg_aspnet_justtrip_b2c || true
-docker build -t ljg_aspnet_justtrip_b2c .
+docker image rm linju1020/aspnet3.0 || true
+docker build -t linju1020/aspnet3.0 .
